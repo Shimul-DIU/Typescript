@@ -5,4 +5,4 @@ console.log(password);
 function Twosum(num1, num2) {
     console.log(num1 + num2);
 }
-Twosum(3, '5');
+Twosum(3, 7);
