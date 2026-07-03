@@ -1,3 +1,5 @@
+import { arry,obj } from "./module/module.js"
+console.log(arry)
 /* var username='shimul'
 var password:string='234'
 console.log(username,password)
@@ -17,17 +19,17 @@ function Multiplication(num1:number,num2:number):number{
 
 console.log(Multiplication(0,9))
  */
-let student={
-    name:'shimul',
-    roll:8,
-    isStudent:true,
-    years:40
-}
-// console.log(student)
-console.log(Object.entries(student))
-console.log(Object.keys(student))
-console.log(Object.values(student))
+// let student={
+//     name:'shimul',
+//     roll:8,
+//     isStudent:true,
+//     years:40
+// }
+// // console.log(student)
+// console.log(Object.entries(student))
+// console.log(Object.keys(student))
+// console.log(Object.values(student))
 
-Object.entries(student).forEach(([keys,values])=>{
-    console.log(`key is ${keys} and value is ${values}`)
-})
+// Object.entries(student).forEach(([keys,values])=>{
+//     console.log(`key is ${keys} and value is ${values}`)
+// })
