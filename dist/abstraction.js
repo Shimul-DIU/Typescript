@@ -1,4 +1,3 @@
-"use strict";
 class students {
     name = 'shimul';
     roll;
@@ -19,3 +18,4 @@ class student1 extends students {
 }
 const s1 = new student1(46, 'sdfd', 7);
 s1.display();
+export {};

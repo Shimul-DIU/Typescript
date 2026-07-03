@@ -1,4 +1,3 @@
-"use strict";
 class students {
     name;
     roll;
@@ -28,3 +27,4 @@ let s1 = new students1(2029, 'mymensingh', 'shimul', 65, 4.65);
 let s2 = new students1(2026, 'dhaka', 'mustafa', 65, 4.65);
 s2.display();
 s1.display();
+export {};

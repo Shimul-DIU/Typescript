@@ -1,4 +1,3 @@
-"use strict";
 class Student {
     name;
     roll;
@@ -18,3 +17,4 @@ student1.passingYear = 2026;
 student1.display();
 let student2 = new Student('mustafa', 8, 9.09);
 student2.display();
+export {};

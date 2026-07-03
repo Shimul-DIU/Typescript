@@ -1,4 +1,3 @@
-"use strict";
 // public
 class animal {
     name;
@@ -61,3 +60,4 @@ class volvo extends car {
 }
 const volvo_obj1 = new volvo('toyota');
 volvo_obj1.show();
+export {};

@@ -1,4 +1,4 @@
-import { arry } from "./module/module.js";
+import { Student, arry } from "./module/module.js";
 console.log(arry);
 /* var username='shimul'
 var password:string='234'

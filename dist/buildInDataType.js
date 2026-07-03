@@ -1,4 +1,3 @@
-"use strict";
 const age = 234;
 const roll = Number('45');
 console.log(typeof (roll));
@@ -18,3 +17,4 @@ console.log(`full name ${fullName}\n`);
 console.log(`split name ${fullName.split(' ')}\n`);
 console.log(` age ${age}\n`);
 console.log(` roll ${roll}\n`);
+export {};

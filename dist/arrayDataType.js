@@ -1,4 +1,3 @@
-"use strict";
 /* // let arr: string[];
 let arr:Array<string>
 arr=['shimul','mustafa','rifat']
@@ -43,3 +42,4 @@ const sliceItem = multipleDataType.slice(1, 3);
 console.log(sliceItem);
 console.log(multipleDataType.indexOf(45));
 console.log(multipleDataType.indexOf(0));
+export {};

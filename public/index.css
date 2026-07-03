@@ -1,0 +1,11 @@
+*{
+  background-color:rgb(158, 159, 159)
+}
+text{
+  color:chartreuse
+}
+button{
+  border:1px solid black;
+  padding:15px;
+  border-radius: 10%;
+}
